@@ -5,6 +5,3 @@ Pillow
 imutils
 numpy
 requests
-pyngrok
-
-
